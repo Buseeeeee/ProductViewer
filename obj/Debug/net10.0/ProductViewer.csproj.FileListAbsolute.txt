@@ -1,0 +1,14 @@
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\bin\Debug\net10.0\ProductViewer.exe
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\bin\Debug\net10.0\ProductViewer.deps.json
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\bin\Debug\net10.0\ProductViewer.runtimeconfig.json
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\bin\Debug\net10.0\ProductViewer.dll
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\bin\Debug\net10.0\ProductViewer.pdb
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.AssemblyInfoInputs.cache
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.AssemblyInfo.cs
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.csproj.CoreCompileInputs.cache
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.dll
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\refint\ProductViewer.dll
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.pdb
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ProductViewer.genruntimeconfig.cache
+C:\Users\buseee\Desktop\c# uygulaması\ProductViewer\obj\Debug\net10.0\ref\ProductViewer.dll
